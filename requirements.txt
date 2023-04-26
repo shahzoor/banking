@@ -1,4 +1,3 @@
-appnope @ file:///Users/runner/miniforge3/conda-bld/appnope_1610094662606/work
 argon2-cffi @ file:///Users/runner/miniforge3/conda-bld/argon2-cffi_1625821429979/work
 asttokens==2.2.1
 async-generator==1.10
